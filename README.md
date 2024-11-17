@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aMAAmina
-- 🌱 I’m currently learning python
+- 🌱 Python Enthusiast
 
 <!---
 aMAAmina/aMAAmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
