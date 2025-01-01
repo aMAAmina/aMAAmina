@@ -4,6 +4,7 @@
 ## 📚 Projects  
 Here are some of the projects I've been working on:  
 - [SQL Advant Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24 days sql challenge put by by Dawn Choo in December 2024.
+- [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
 
 ## 💡 About Me  
 I’m passionate about software engineering, Python development, and exploring digital marketing.  
