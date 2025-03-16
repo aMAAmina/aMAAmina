@@ -3,11 +3,12 @@
 
 ## 📚 Projects  
 Here are some of the projects I've been working on:  
-- [SQL Advant Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24 days sql challenge put by by Dawn Choo in December 2024.
+- [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
 - [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
+- [GenAI BootCamp](https://github.com/aMAAmina/free-genai-bootcamp-2025) - 6 week bootcamp with ExamPro
 
 ## 💡 About Me  
-I’m passionate about software engineering, Python development, and exploring digital marketing.  
+I’m a software engineer, passionate about cybersecurity & cloud for now!  
 
 <!---
 aMAAmina/aMAAmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
