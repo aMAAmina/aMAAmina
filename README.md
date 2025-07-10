@@ -5,7 +5,7 @@
 Here are some of the projects I've been working on:  
 - [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
 - [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
-- [GenAI BootCamp](https://github.com/aMAAmina/free-genai-bootcamp-2025) - bootcamp with ExamPro
+- [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
 
 ## 💡 About Me  
 I’m a software engineer, passionate about cybersecurity & cloud for now!  
