@@ -8,7 +8,7 @@ Here are some of the projects I've been working on:
 - [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
 - [pokemon-pipeline](https://github.com/aMAAmina/pokemon-pipeline) This a one day hackathon project with Arkx (data pipeline)
 ## 💡 About Me  
-I’m a software engineer, passionate about cybersecurity & cloud for now!  
+I’m a software engineer, passionate about cybersecurity & data for now!  
 
 <!---
 aMAAmina/aMAAmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
