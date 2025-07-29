@@ -7,7 +7,7 @@ Here are some of the projects I've been working on:
 - [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
 - [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
 - [DataOpsDAY0&1-Pokemon-pipeline](https://github.com/aMAAmina/pokemon-pipeline) - This was a one day hackathon project with Arkx (data pipeline), turned into a bootcamp, DAY1 (refactoring pipeline into a package)
-- [DataOpsDay2-Pandas](https://github.com/aMAAmina/DAY2) - Pandas For DataOps
+- [DataOpsDay2-Pandas](https://github.com/aMAAmina/PANDAS-DATAOPS) - Pandas For DataOps
 ## 💡 About Me  
 I’m a software engineer, passionate about cybersecurity & data for now!  
 
