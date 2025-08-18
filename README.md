@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aMAAmina  
+# 👋 Hi, I’m Amina BOUHAMRA
 🌱 Python Enthusiast  
 
 ## 📚 Projects  
@@ -12,8 +12,7 @@ Here are some of the projects I've been working on:
 - [Database design](https://github.com/aMAAmina/database-design) - Week2 database
 - [web-scraping](https://github.com/aMAAmina/web-scraping) - week3 web scrapping
 ## 💡 About Me  
-I’m a software engineer, passionate about cybersecurity & data for now!  
-
+Software engineer passionate about cybersecurity and data, with a focus on building secure and data-driven solutions, and currently advancing my skills through a DataOps boot camp.
 <!---
 aMAAmina/aMAAmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
