@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programing
+### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
@@ -46,7 +46,7 @@
 ### 🖥️ Infrastructure & Administration Système
 ![Linux (Ubuntu)](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white)
 
-### 🔗 Versionnement & Collaboration
+### 🔗 Versioning & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-2496ED)
