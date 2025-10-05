@@ -82,16 +82,12 @@
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amina-bouhamra&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aMAAmina&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 🐍 Snake Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amina-bouhamra/amina-bouhamra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/aMAAmina/aMAAmina/output/github-contribution-grid-snake.svg)
 
 ---
 
