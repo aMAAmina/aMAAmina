@@ -82,7 +82,9 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=aMAAmina&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aMAAmina&theme=tokyonight)](https://git.io/streak-stats)
+</p>
 
 ---
 
