@@ -43,7 +43,7 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apache&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 
-### 🖥️ Infrastructure & Administration Système
+### 🖥️ Infrastructure & System administration
 ![Linux (Ubuntu)](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white)
 
 ### 🔗 Versioning & Collaboration
