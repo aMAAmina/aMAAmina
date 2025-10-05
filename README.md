@@ -75,16 +75,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aMAAmina&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=aMAAmina&theme=tokyonight)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aMAAmina&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
