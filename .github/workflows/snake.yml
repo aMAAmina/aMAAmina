@@ -12,7 +12,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: amina-bouhamra
+          github_user_name: aMAAmina
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push generated snake to output branch
