@@ -13,6 +13,18 @@
 
 ---
 
+## 📌 Featured Projects/Code  
+- [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
+- [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
+- [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
+- [DataOpsDAY0&1-Pokemon-pipeline](https://github.com/aMAAmina/pokemon-pipeline) - This was a one day hackathon project with Arkx (data pipeline), turned into a bootcamp, DAY1 (refactoring pipeline into a package)
+- [DataOpsWeek1-Pandas](https://github.com/aMAAmina/PANDAS-DATAOPS) - Pandas , chunking, dowcasting, memory usage For DataOps
+- [Customer_purshase project](https://github.com/aMAAmina/customer-purchase-analytics) - final project of week 1
+- [Database design](https://github.com/aMAAmina/database-design) - Week2 database
+- [web-scraping](https://github.com/aMAAmina/web-scraping) - week3 web scrapping
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
@@ -59,18 +71,6 @@
 *NIST* • *OWASP* • *GDPR*  
 *Machine Learning* • *Adversarial ML*
 
-
----
-
-## 📌 Featured Projects/Code  
-- [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
-- [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
-- [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
-- [DataOpsDAY0&1-Pokemon-pipeline](https://github.com/aMAAmina/pokemon-pipeline) - This was a one day hackathon project with Arkx (data pipeline), turned into a bootcamp, DAY1 (refactoring pipeline into a package)
-- [DataOpsWeek1-Pandas](https://github.com/aMAAmina/PANDAS-DATAOPS) - Pandas , chunking, dowcasting, memory usage For DataOps
-- [Customer_purshase project](https://github.com/aMAAmina/customer-purchase-analytics) - final project of week 1
-- [Database design](https://github.com/aMAAmina/database-design) - Week2 database
-- [web-scraping](https://github.com/aMAAmina/web-scraping) - week3 web scrapping
 
 ---
 
