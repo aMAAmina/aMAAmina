@@ -86,11 +86,6 @@
 
 ---
 
-## 🐍 Snake Graph
-![Snake animation](https://raw.githubusercontent.com/aMAAmina/aMAAmina/output/github-contribution-grid-snake.svg)
-
----
-
 
 ## 🌍 Languages  
 - 🇲🇦 *Arabic*: Native  
