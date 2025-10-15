@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Featured Projects/Code  
-- [PhishingURLViz]([https://github.com/aMAAmina/web-scraping](https://github.com/aMAAmina/PhiUSIILPhishingURL_Viz)) - This Jupyter Notebook is part of my capstone project for Codecademy: Visualize Data with Python. Being passionate about cybersecurity, I chose to work with a phishing URL dataset to explore patterns and insights.
+- [PhishingURLViz](https://github.com/aMAAmina/web-scraping](https://github.com/aMAAmina/PhiUSIILPhishingURL_Viz) - This Jupyter Notebook is part of my capstone project for Codecademy: Visualize Data with Python. Being passionate about cybersecurity, I chose to work with a phishing URL dataset to explore patterns and insights.
 - [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
 - [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
 - [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
