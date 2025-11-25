@@ -53,8 +53,6 @@
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apache&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 
 ### 🖥️ Infrastructure & System administration
 ![Linux (Ubuntu)](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white)
