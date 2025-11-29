@@ -13,12 +13,21 @@
 
 ---
 
-## 📌 Featured Projects/Code  
+## 📌 Featured Projects:
+- [NiFiPulse](https://github.com/DXC-DP-Monitoring/NiFiPulse) - (On going) capstone project of dataops bootcamp (JobIntechXArkx) with DXC: Lightweight on-prem monitoring and alerting solution for Apache NiFi clusters.
 - [PhishingURLViz](https://github.com/aMAAmina/PhiUSIILPhishingURL_Viz) - This Jupyter Notebook is part of my capstone project for Codecademy: Visualize Data with Python. Being passionate about cybersecurity, I chose to work with a phishing URL dataset to explore patterns and insights.
+- [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
+
+---
+
+## 🤺 Challenges:
 - [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
 - [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
-- [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
 - [DataOpsDAY0&1-Pokemon-pipeline](https://github.com/aMAAmina/pokemon-pipeline) - This was a one day hackathon project with Arkx (data pipeline), turned into a bootcamp, DAY1 (refactoring pipeline into a package)
+
+---
+
+## 📉 technical debt:
 - [DataOpsWeek1-Pandas](https://github.com/aMAAmina/PANDAS-DATAOPS) - Pandas , chunking, dowcasting, memory usage For DataOps
 - [Customer_purshase project](https://github.com/aMAAmina/customer-purchase-analytics) - final project of week 1
 - [Database design](https://github.com/aMAAmina/database-design) - Week2 database
