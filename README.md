@@ -54,13 +54,13 @@
 *Star Schemas* • *Snowflake Schemas* • *Normalization* • *UML*
 
 ### 📈 Data Visualization & Analytics
-![Grafana](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF)
 
 ### 🚀 DevOps & Cloud
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 
@@ -69,7 +69,6 @@
 
 ### 🔗 Versioning & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-2496ED)
 
 ### 🔐 Cybersecurity & AI
