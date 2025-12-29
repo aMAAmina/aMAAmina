@@ -54,7 +54,7 @@
 *Star Schemas* • *Snowflake Schemas* • *Normalization* • *UML*
 
 ### 📈 Data Visualization & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF)
 
@@ -76,6 +76,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-005571?logo=linux&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
 *NIST* • *OWASP* • *GDPR*  
 *Machine Learning* • *Adversarial ML*
