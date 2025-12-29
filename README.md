@@ -80,14 +80,6 @@
 *NIST* • *OWASP* • *GDPR*  
 *Machine Learning* • *Adversarial ML*
 
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aMAAmina&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" height="180" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
