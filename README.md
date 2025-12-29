@@ -21,7 +21,8 @@
 ---
 
 ## 🤺 Challenges:
-- [SQL Advent Calendar](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
+- [SQL Advent Calendar 2025](https://github.com/aMAAmina/sql-advent-calendar-2025) - A 24-day sql challenge put by Dawn Choo in December 2025.
+- [SQL Advent Calendar 2024](https://github.com/aMAAmina/SQLAdventCalendar2024) - A 24-day sql challenge put by Dawn Choo in December 2024.
 - [PythonPBs](https://github.com/aMAAmina/PythonPBs) - python challenges.
 - [DataOpsDAY0&1-Pokemon-pipeline](https://github.com/aMAAmina/pokemon-pipeline) - This was a one day hackathon project with Arkx (data pipeline), turned into a bootcamp, DAY1 (refactoring pipeline into a package)
 
