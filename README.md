@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amina BOUHAMRA
-- 💡 Software Engineer passionate about Python, and DataOps.
+- 💡 Software Engineer, Data & AI
 - ➡️ Building secure, data-driven, and intelligent solutions for the web and beyond.
 
 ---
@@ -7,13 +7,14 @@
 ## 🧑‍💻 About Me
 - 🛡️ Focused on Data Engineering, software engineering and Automation.
 - 🔍 Interested in Adversarial Machine Learning (AML) and secure AI systems.
-- 🧠 Graduate in Web & Mobile Computing – Web Intelligence from ENSIAS.
+- 📜 Graduate in Web & Mobile Computing – Web Intelligence from ENSIAS.
+- 📜 Qualification in dataops engineering from ArkxSolutionsXjobintech.
 - 🎯 Goal: help clients scale securely through lightweight, open, and efficient architectures.
 
 ---
 
 ## 📌 Featured Projects:
-- [NiFiPulse](https://github.com/DXC-DP-Monitoring/NiFiPulse) - capstone project of dataops bootcamp (JobIntechXArkx) with DXC: Lightweight on-prem monitoring and alerting solution for Apache NiFi clusters.
+- [NiFiPulse](https://github.com/DXC-DP-Monitoring/NiFiPulse) - capstone project of dataops bootcamp (JobIntechXArkx) with DXC technology: Lightweight on-prem monitoring and alerting solution for Apache NiFi clusters.
 - [PhishingURLViz](https://github.com/aMAAmina/PhiUSIILPhishingURL_Viz) - This Jupyter Notebook is part of my capstone project for Codecademy: Visualize Data with Python. Being passionate about cybersecurity, I chose to work with a phishing URL dataset to explore patterns and insights.
 - [smartdescribe](https://github.com/aMAAmina/smartdescribe)  – AI-Powered Offline Pre-Analysis Assistant. It's a Python package designed for data analysts that acts as an offline, AI-driven pre-analysis assistant. [--in progress]
 - [WellSecure](https://github.com/aMAAmina/WellSecure) - capstone project with MentorMeXGoogle cybersecurity track
